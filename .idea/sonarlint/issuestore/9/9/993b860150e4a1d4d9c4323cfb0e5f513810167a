@@ -1,0 +1,14 @@
+
+£
+java:S3655["`Call "foundOptionalCar.isPresent()" or "!foundOptionalCar.isEmpty()" before accessing the value.(ÄèÔ¿8ßÃ·æè1J$cd8d0658-1656-4a39-8eb2-4173d1825703
+œ
+java:S3655?"`Call "foundOptionalCar.isPresent()" or "!foundOptionalCar.isEmpty()" before accessing the value.(Ú‡üðJ$a2a0bc7b-f4b9-4f1e-845a-67a596fae416
+¡
+java:S3655T"`Call "foundOptionalCar.isPresent()" or "!foundOptionalCar.isEmpty()" before accessing the value.(™‹ÞºúÿÿÿÿJ$0cbbf8a0-d8ae-401e-bed6-2dcad65e354d
+¡
+java:S3655M"`Call "foundOptionalCar.isPresent()" or "!foundOptionalCar.isEmpty()" before accessing the value.(¶úØéûÿÿÿÿJ$a6eff22b-570f-4953-b069-6a7aa28f461a
+œ
+java:S3655-"`Call "foundOptionalCar.isPresent()" or "!foundOptionalCar.isEmpty()" before accessing the value.(¤©žäJ$8fe670f5-8fc8-4de2-8677-b7640189f031
+š	java:S116"XRename this field "LATE_FEE_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¿þï8½—·æè1J$0eb3fdf4-1b42-4e8a-b547-ed548f80892f
+]
+java:S1170"!Make this final field static too.(Ì¿þïJ$9b7960b9-4e16-4a48-ad93-00386167963d

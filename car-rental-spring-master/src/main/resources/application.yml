@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: rentacar
+  datasource:
+    url: jdbc:postgresql://localhost:5432/rentacar
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true

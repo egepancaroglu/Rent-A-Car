@@ -1,0 +1,9 @@
+
+q
+java:S1172"5Remove this unused method parameter "identityNumber".(Ùø«¢J$b989654a-f9e4-4023-80ad-e5079f49a7b2
+j
+java:S2140")Use "java.util.Random.nextInt()" instead.(Å¢ò©øÿÿÿÿJ$b630e85d-2e35-4e54-b909-74be960bcded
+h
+java:S1172",Remove this unused method parameter "taxNo".(ñ€J$6aa2a67b-e3fb-4162-b468-0dada86845f4
+j
+java:S2140")Use "java.util.Random.nextInt()" instead.(Å¢ò©øÿÿÿÿJ$25a3062f-6750-4331-a06c-5663b5931ec0
